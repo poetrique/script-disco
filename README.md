@@ -1,3 +1,3 @@
-# fun js scripts
+# a simple javascript playground
 
-* [stress wall](./stress-wall/index.html)  
+* [honey and ice](./honey-and-ice/index.html)  
