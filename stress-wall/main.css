@@ -20,5 +20,13 @@ body {
 }
 
 #reset {
-  margin: 2em;
+  margin-top: 2em;
+}
+
+/* MOBILE VIEW */
+/* Landscape */
+.block {
+  width: 6em;
+  height: 6em;
+  background-color: #232425;
 }
