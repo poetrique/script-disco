@@ -1,1 +1,3 @@
-project to be started soon
+# fun js scripts
+
+* stress ball
