@@ -1,0 +1,29 @@
+#red {
+  background-color: red;
+  width: 5em;
+  height: 5em;
+  margin: 5em 0 0 5em;
+}
+
+#blue {
+  background-color: blue;
+  width: 5em;
+  height: 5em;
+  margin: 5em 0 0 5em;
+}
+
+#yellow {
+  background-color: yellow;
+  width: 5em;
+  height: 5em;
+  margin: 5em 0 0 5em;
+}
+
+.row {
+  display: flex;
+  align-content: center;
+}
+
+#reset {
+  margin: 2em;
+}

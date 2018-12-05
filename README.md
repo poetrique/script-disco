@@ -1,3 +1,3 @@
 # fun js scripts
 
-* [stress ball](./stress-ball/index.html)  
+* [stress wall](./stress-wall/index.html)  
