@@ -3,22 +3,10 @@ body {
   background-color: #c0c0c0;
 }
 
-#one {
+.block {
   width: 15em;
   height: 20em;
-  background-color: red;
-}
-
-#two {
-  width: 15em;
-  height: 20em;
-  background-color: blue;
-}
-
-#three {
-  width: 15em;
-  height: 20em;
-  background-color: yellow;
+  background-color: #232425;
 }
 
 .row {
