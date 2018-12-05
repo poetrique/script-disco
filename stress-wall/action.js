@@ -1,14 +1,14 @@
-function red() {
-  document.getElementById("red").style.backgroundColor = "#3cb371";
+function one() {
+  document.getElementById("one").style.backgroundColor = "#3cb371";
 }
-function blue() {
-  document.getElementById("blue").style.backgroundColor = "#fff";
+function two() {
+  document.getElementById("two").style.backgroundColor = "#fff";
 }
-function yellow() {
-  document.getElementById("yellow").style.backgroundColor = "#3cb371";
+function three() {
+  document.getElementById("three").style.backgroundColor = "#3cb371";
 }
 function black() {
-  document.getElementById("red").style.backgroundColor = "#000";
-  document.getElementById("blue").style.backgroundColor = "#000";
-  document.getElementById("yellow").style.backgroundColor = "#000";
+  document.getElementById("one").style.backgroundColor = "#000";
+  document.getElementById("two").style.backgroundColor = "#000";
+  document.getElementById("three").style.backgroundColor = "#000";
 }
