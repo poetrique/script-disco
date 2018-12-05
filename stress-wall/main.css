@@ -3,30 +3,26 @@ body {
 }
 
 #red {
-  background-color: red;
   width: 5em;
   height: 5em;
+  background-color: red;
 }
 
 #blue {
-  background-color: blue;
   width: 5em;
   height: 5em;
+  background-color: blue;
 }
 
 #yellow {
-  background-color: yellow;
   width: 5em;
   height: 5em;
-}
-
-p {
-  padding: 1em;
+  background-color: yellow;
 }
 
 .row {
   display: flex;
-  align-content: center;
+  justify-content: center;
 }
 
 #reset {
