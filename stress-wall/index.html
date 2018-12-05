@@ -15,27 +15,12 @@
   
   <div class="row">
     <p id="red" onclick="red()">click me to make me green</p>
-    <p id="blue" onclick="blue()">click me to make me green</p>
+    <p id="blue" onclick="blue()">click me to make me white</p>
     <p id="yellow" onclick="yellow()">click me to make me green</p>
   </div>
-  <input id="reset" type="button" onclick="black()" value="reset colours" />
+  <input id="reset" type="button" onclick="black()" value="reset to black" />
   
-  <script>
-  function red() {
-    document.getElementById("red").style.backgroundColor = "#3cb371";
-  }
-  function blue() {
-    document.getElementById("blue").style.backgroundColor = "#3cb371";
-  }
-  function yellow() {
-    document.getElementById("yellow").style.backgroundColor = "#3cb371";
-  }
-  function black() {
-    document.getElementById("red").style.backgroundColor = "#000";
-    document.getElementById("blue").style.backgroundColor = "#000";
-    document.getElementById("yellow").style.backgroundColor = "#000";
-  }
-  </script>
+  <script src="action.js"></script>
     
 </body>
 </html>
